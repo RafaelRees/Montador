@@ -1,0 +1,11 @@
+in a
+in b
+push a
+push b
+add
+store resultado
+out resultado
+stp
+a space 0
+b space 0
+resultado space 0
